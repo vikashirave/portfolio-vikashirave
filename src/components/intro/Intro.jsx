@@ -3,7 +3,8 @@ import './intro.scss';
 function Intro() {
   return (
     <div className='intro' id='intro'>
-efwwf
+      <div className='left'></div>
+      <div className='right'></div>
     </div>
   );
 }
