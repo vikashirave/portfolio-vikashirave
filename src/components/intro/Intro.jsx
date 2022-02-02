@@ -19,7 +19,7 @@ function Intro() {
     <div className='intro' id='intro'>
       <div className='left'>
         <div className='imgContainer'>
-          <img src='assets/vikas.jpg' alt='img' />
+          <img src='assets/pic.jpeg' alt='img' />
         </div>
       </div>
       <div className='right'>
